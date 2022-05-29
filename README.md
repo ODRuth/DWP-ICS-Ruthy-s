@@ -1,2 +1,2 @@
 # DWP-ICS-Ruthy-s
-It is a project on creating a recipe website
+DWP ICS 2022 Final Project
